@@ -1,0 +1,362 @@
+[
+  {
+    "periodo": 1,
+    "id": 2,
+    "tipologia": "MEC",
+    "nombre": "Herramientas Matemáticas I - Algebra",
+    "correlativas": []
+  },
+  {
+    "periodo": 1,
+    "id": 3,
+    "tipologia": "MEC",
+    "nombre": "Administración",
+    "correlativas": []
+  },
+  {
+    "periodo": 1,
+    "id": 4,
+    "tipologia": "MEC",
+    "nombre": "Empresas Familiares",
+    "correlativas": []
+  },
+  {
+    "periodo": 1,
+    "id": 5,
+    "tipologia": "MIA",
+    "nombre": "Principios de la Contabilidad",
+    "correlativas": []
+  },
+  {
+    "periodo": 1,
+    "id": 6,
+    "tipologia": "MEC",
+    "nombre": "Desarrollo Emprendedor",
+    "correlativas": []
+  },
+  {
+    "periodo": 1,
+    "id": 7,
+    "tipologia": "MEC",
+    "nombre": "Recursos Informáticos",
+    "correlativas": []
+  },
+  {
+    "periodo": 2,
+    "id": 8,
+    "tipologia": "MIP",
+    "nombre": "Contabilidad Básica",
+    "correlativas": [
+      5
+    ]
+  },
+  {
+    "periodo": 2,
+    "id": 9,
+    "tipologia": "MIA",
+    "nombre": "Herramientas Matemáticas II - Análisis",
+    "correlativas": []
+  },
+  {
+    "periodo": 2,
+    "id": 10,
+    "tipologia": "MEC",
+    "nombre": "Grupo y Liderazgo",
+    "correlativas": []
+  },
+  {
+    "periodo": 2,
+    "id": 11,
+    "tipologia": "MEC",
+    "nombre": "Sistemas de Información Organizacionales",
+    "correlativas": []
+  },
+  {
+    "periodo": 2,
+    "id": 12,
+    "tipologia": "MEC",
+    "nombre": "Dirección General",
+    "correlativas": []
+  },
+  {
+    "periodo": 3,
+    "id": 13,
+    "tipologia": "MIP",
+    "nombre": "Contabilidad Intermedia",
+    "correlativas": [
+      8
+    ]
+  },
+  {
+    "periodo": 3,
+    "id": 14,
+    "tipologia": "MIA",
+    "nombre": "Análisis Cuantitativo Financiero",
+    "correlativas": [
+      9
+    ]
+  },
+  {
+    "periodo": 3,
+    "id": 15,
+    "tipologia": "MIA",
+    "nombre": "Economía I",
+    "correlativas": [
+      9
+    ]
+  },
+  {
+    "periodo": 3,
+    "id": 16,
+    "tipologia": "MIA",
+    "nombre": "Herramientas Matemáticas III - Estadística I",
+    "correlativas": []
+  },
+  {
+    "periodo": 3,
+    "id": 17,
+    "tipologia": "MEC",
+    "nombre": "Marco Legal de las Organizaciones",
+    "correlativas": []
+  },
+  {
+    "periodo": 4,
+    "id": 18,
+    "tipologia": "MIP",
+    "nombre": "Contabilidad Superior",
+    "correlativas": [
+      13
+    ]
+  },
+  {
+    "periodo": 4,
+    "id": 19,
+    "tipologia": "MIP",
+    "nombre": "Economía II",
+    "correlativas": [
+      15
+    ]
+  },
+  {
+    "periodo": 4,
+    "id": 20,
+    "tipologia": "MIP",
+    "nombre": "Herramientas Matemáticas IV - Investigación",
+    "correlativas": [
+      2
+    ]
+  },
+  {
+    "periodo": 4,
+    "id": 21,
+    "tipologia": "MIA",
+    "nombre": "Derecho Empresario",
+    "correlativas": [
+      17
+    ]
+  },
+  {
+    "periodo": 4,
+    "id": 22,
+    "tipologia": "MIA",
+    "nombre": "Contabilidad de Costos",
+    "correlativas": [
+      5
+    ]
+  },
+  {
+    "periodo": 5,
+    "id": 23,
+    "tipologia": "MIP",
+    "nombre": "Auditoría I",
+    "correlativas": []
+  },
+  {
+    "periodo": 5,
+    "id": 24,
+    "tipologia": "MIP",
+    "nombre": "Control y Evaluación Financiero I",
+    "correlativas": []
+  },
+  {
+    "periodo": 5,
+    "id": 25,
+    "tipologia": "MIP",
+    "nombre": "Derecho del Trabajo y la Seguridad Social",
+    "correlativas": []
+  },
+  {
+    "periodo": 5,
+    "id": 26,
+    "tipologia": "MIA",
+    "nombre": "Finanzas Públicas",
+    "correlativas": []
+  },
+  {
+    "periodo": 5,
+    "id": 27,
+    "tipologia": "MIA",
+    "nombre": "Herramientas Matemáticas V-Estadística II",
+    "correlativas": [
+      16
+    ]
+  },
+  {
+    "periodo": 6,
+    "id": 28,
+    "tipologia": "MIP",
+    "nombre": "Auditoría II",
+    "correlativas": [
+      23
+    ]
+  },
+  {
+    "periodo": 6,
+    "id": 29,
+    "tipologia": "MIP",
+    "nombre": "Control y Evaluación Financiero II",
+    "correlativas": [
+      24
+    ]
+  },
+  {
+    "periodo": 6,
+    "id": 30,
+    "tipologia": "MIP",
+    "nombre": "Impuestos I",
+    "correlativas": [
+      26
+    ]
+  },
+  {
+    "periodo": 6,
+    "id": 31,
+    "tipologia": "MIA",
+    "nombre": "Personas Jurídicas - Sociedades",
+    "correlativas": []
+  },
+  {
+    "periodo": 6,
+    "id": 32,
+    "tipologia": "MIA",
+    "nombre": "Formulación y Evaluación de Proyectos",
+    "correlativas": [
+      14
+    ]
+  },
+  {
+    "periodo": 6,
+    "id": 33,
+    "tipologia": "Proceso",
+    "nombre": "EFIP I",
+    "correlativas": [
+      14,
+      18,
+      21
+    ]
+  },
+  {
+    "periodo": 7,
+    "id": 34,
+    "tipologia": "MIP",
+    "nombre": "Práctica Impositiva y de Liquidación de Sueldos",
+    "correlativas": [
+      25,
+      30,
+      33
+    ]
+  },
+  {
+    "periodo": 7,
+    "id": 35,
+    "tipologia": "MIP",
+    "nombre": "Herramientas Matemáticas VI - Modelos de Simulaciòn",
+    "correlativas": [
+      9
+    ]
+  },
+  {
+    "periodo": 7,
+    "id": 36,
+    "tipologia": "MIP",
+    "nombre": "Impuestos II",
+    "correlativas": [
+      30
+    ]
+  },
+  {
+    "periodo": 7,
+    "id": 37,
+    "tipologia": "MIP",
+    "nombre": "Seminario Final de Contador Público",
+    "correlativas": [
+      28,
+      30,
+      33
+    ]
+  },
+  {
+    "periodo": 7,
+    "id": 38,
+    "tipologia": "MIA",
+    "nombre": "Economía Internacional",
+    "correlativas": [
+      19
+    ]
+  },
+  {
+    "periodo": 8,
+    "id": 39,
+    "tipologia": "MIP",
+    "nombre": "Concursos y Quiebras",
+    "correlativas": [
+      33
+    ]
+  },
+  {
+    "periodo": 8,
+    "id": 40,
+    "tipologia": "MIP",
+    "nombre": "Impuestos III",
+    "correlativas": []
+  },
+  {
+    "periodo": 8,
+    "id": 41,
+    "tipologia": "MIP",
+    "nombre": "Práctica Profesional de Contador Público",
+    "correlativas": [
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "periodo": 8,
+    "id": 42,
+    "tipologia": "MEC",
+    "nombre": "Instituciones y Políticas Gubernamentales",
+    "correlativas": []
+  },
+  {
+    "periodo": 8,
+    "id": 43,
+    "tipologia": "MIA",
+    "nombre": "Economía Argentina",
+    "correlativas": []
+  },
+  {
+    "periodo": 8,
+    "id": 44,
+    "tipologia": "MIA",
+    "nombre": "Práctica Solidaria",
+    "correlativas": []
+  },
+  {
+    "periodo": 8,
+    "id": 45,
+    "tipologia": "Proceso",
+    "nombre": "EFIP II",
+    "correlativas": []
+  }
+]
