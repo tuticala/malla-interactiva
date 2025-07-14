@@ -1,47 +1,16 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  margin: 20px;
+.bloqueada {
+  filter: grayscale(1);
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-#malla-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 16px;
-  padding: 10px;
-}
-
-.periodo {
-  border: 1px solid #ccc;
-  padding: 10px;
-  background: #fff;
-  border-radius: 8px;
+.aprobada {
+  outline: 2px solid #4CAF50;
+  box-shadow: 0 0 5px #4CAF50;
+  font-weight: bold;
 }
 
 .materia {
-  padding: 10px;
-  margin-bottom: 8px;
-  border-radius: 6px;
-  position: relative;
+  transition: all 0.3s;
+  cursor: pointer;
 }
-
-.materia:hover::after {
-  content: attr(data-correlativas);
-  position: absolute;
-  left: 0;
-  bottom: -20px;
-  background: #444;
-  color: #fff;
-  font-size: 12px;
-  padding: 4px;
-  border-radius: 4px;
-}
-
-.MEC { background: #e8dff5; }
-.MIP { background: #fce1e4; }
-.MIA { background: #fcf4dd; }
